@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Courseware</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="courses">Courses</string>
+    <string name="java">Java</string>
+    <string name="cpp">C++</string>
+    <string name="title_activity_faq">FaqActivity</string>
+    <string name="example_question">What is Data Encapsulation?</string>
+    <string name="example_answer"><![CDATA[The term <i>Encapsulation</i> means \"creating a capsule or a box of things\". In computer terminology, it stands for creation of a single unit containing <i>related</i> pieces of data and exposing them as one unit. For example, instead of storing a Day of Month, the Month and the Year as three variables, we can create one unit called \"Date\" that contains all three pieces of information]]></string>
+</resources>
